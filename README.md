@@ -3,7 +3,7 @@ Coffee Sales Dashboard
 
 **Status:** Deployed on Streamlit Community Cloud.
 
-**Live app:** https://coffee-sales-dashboard-fdtb7ksaxdhrqpptjj3zr2.streamlit.app/
+**Live app:** [https://coffee-sales-dashboard-fdtb7ksaxdhrqpptjj3zr2.streamlit.app/](https://dukedog666-coffee-sales-dashboard-app-s169h7.streamlit.app)
 **Team members:** Chen, Junxian; Yu, Boyan; Bai, Yuning; Qian, Hongyi.
 
 Each student will publish their own repository, README, and app.
